@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 settings.json
 *.enc
+*.xml
 
 # C extensions
 *.so
