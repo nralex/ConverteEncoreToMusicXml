@@ -1,14 +1,14 @@
--
--
--
--
+- 
+- 
+- 
+- 
 
 # Converter Encore para MusicXml
 
 Programa para automatizar o processo de conversão de arquivos .enc em MusicXml.
 
--
--
+- 
+- 
 
 ---
 # Atenção
