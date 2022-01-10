@@ -1,4 +1,4 @@
-# Converter Encore para MusicXml
+# 🎹🎻 Converter Encore para MusicXml 🎷🎺
 
 Programa para automatizar o processo de conversão de arquivos .enc em MusicXml.
 
@@ -10,7 +10,7 @@ Este é um projeto que visa meramente colocar em pratica conceitos da linguagem 
 
 ---
 
-## Etapas da automação
+## ⚙ Etapas da automação
 
 * Localiza o diretório onde o executável está;
 * Abre o Encore usando o botão Windows;
@@ -28,7 +28,7 @@ Este é um projeto que visa meramente colocar em pratica conceitos da linguagem 
 
 ---
 
-## Uso
+## ⚙ Uso
 
 Faça o [DOWNLOAD](https://github.com/nralex/EncoreToMusicXml/blob/main/dist/EncoreToMusicXml.exe) do executável (SOMENTE WINDOWS), cole na pasta onde estão os arquivos .enc e execute a aplicação.
 Dependendo da quantidade de arquivos é possível que o processo demore bastante, cada arquivo leva em média 4,5 segundos para passar por todo o processo de automação.
